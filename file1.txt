@@ -1,2 +1,3 @@
 hello this is haris.
-i just added the second feature.
+i just added the second feature. 
+this is the third feature.
