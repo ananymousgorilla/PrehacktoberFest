@@ -1,3 +1,7 @@
 hello this is haris.
 i just added the second feature. 
 this is the third feature.
+
+This is a new feature added by abdul wasay
+
+to understand and test pulls 
