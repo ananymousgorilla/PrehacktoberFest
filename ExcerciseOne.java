@@ -7,5 +7,7 @@ public class ExerciseOne
 
 		System.out.println("Addded a new feature!!");
 		System.out.println("WohoooooooOOO");
+
+		System.out.println("A new lineeeeee, this is so cool");
 	}
 }
